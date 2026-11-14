@@ -1,0 +1,15 @@
+{"id": 1, "question": "What is 17 multiplied by 23?", "accept": ["391"]}
+{"id": 2, "question": "What is the capital city of Australia?", "accept": ["canberra"]}
+{"id": 3, "question": "What is the chemical symbol for sodium?", "accept": ["na"]}
+{"id": 4, "question": "What is the default TCP port for HTTPS?", "accept": ["443"]}
+{"id": 5, "question": "Which is the largest planet in our solar system?", "accept": ["jupiter"]}
+{"id": 6, "question": "A train travels 120 km in 1.5 hours. What is its average speed in km/h?", "accept": ["80"]}
+{"id": 7, "question": "What is the binary number 1011 in decimal?", "accept": ["11"]}
+{"id": 8, "question": "Who wrote the novel Pride and Prejudice?", "accept": ["jane austen", "austen"]}
+{"id": 9, "question": "Which protocol turns domain names into IP addresses?", "accept": ["dns", "domain name system"]}
+{"id": 10, "question": "What is the freezing point of water in degrees Fahrenheit?", "accept": ["32"]}
+{"id": 11, "question": "Which layer of the OSI model does IP work at? Give the layer name.", "accept": ["network"]}
+{"id": 12, "question": "If today is Monday, what day of the week will it be 10 days from now?", "accept": ["thursday"]}
+{"id": 13, "question": "How many times does the letter r appear in the word strawberry?", "accept": ["3", "three"]}
+{"id": 14, "question": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How many cents does the ball cost?", "accept": ["5", "five"]}
+{"id": 15, "question": "What is 15 percent of 240?", "accept": ["36"]}
